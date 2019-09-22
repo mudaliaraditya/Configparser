@@ -1,0 +1,8 @@
+src/ConfigParser.cpp: In function ‘int GetConfig(char*, void*)’:
+src/ConfigParser.cpp:158:9: warning: unused variable ‘lnRetVal’ [-Wunused-variable]
+     int lnRetVal = 0;
+         ^
+src/ConfigParser.cpp: In function ‘int GetConfig(char*, void*)’:
+src/ConfigParser.cpp:159:9: warning: unused variable ‘lnRetVal’ [-Wunused-variable]
+     int lnRetVal = 0;
+         ^
